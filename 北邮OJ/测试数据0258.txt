@@ -1,0 +1,13 @@
+1
+5 6
+Michael Male 1990/02/28
+Amy Female 1992/04/03
+Tom Male 1991/12/15
+Lynn Female 1991/04/09
+Zheng Male 1990/04/20
+Name='Amy'
+Name='Betty'
+Sex='Female' Birthday='*/04/09'
+Sex='Female' Birthday='*/*/*'
+Name='Michael' Sex='Female'
+Name='Michael' Sex='Male' Birthday='1990/02/*'
